@@ -1,0 +1,6 @@
+menuconfig FS_BLOCK_COMPAT
+	bool "Compatibility settings for fs and block layer"
+	default n
+	help
+	  To provide users with some proprietary features.
+
